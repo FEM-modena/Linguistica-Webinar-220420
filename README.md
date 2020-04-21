@@ -21,26 +21,26 @@ Qui trovate 3 template con le istruzioni e i testi già pronti per svolgere l’
 
 ### Lettura "a distanza" con Voyant
 
-Abbiamo precaricato il testo completo di *Orlando Furioso* su Voyant; puoi accedere al progetto tramite <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>
+Abbiamo precaricato il testo completo di *Orlando Furioso* su Voyant; puoi accedere al progetto tramite <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>.
 
 Qui trovate la guida di Voyant
 
-Oggi vedremo insieme alcuni esempi di attività per prendere confidenza con lo strumento
+Oggi vedremo insieme alcuni esempi di attività per prendere confidenza con lo strumento.
 
 ## Esempio 1: le emozioni dell’opera
 Quali sono le emozioni più significative nel poema? Quali nei canti specifici? A quali personaggi si riferiscono? 
 Noi abbiamo fatto una prova con "amore".
 Nel grafico degli  <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=amor*&query=paur*&query=furor*" target="_blank"> andamenti di "furor*", "amor*", "pazz*" </a> notiamo un’alta frequenza relativa di "amor*" nei canti 5, 13, 36. Perchè? Andiamo a vedere in <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Contexts&query=amor*" target="_blank">Contesti</a> le specifiche occorrenze della parola nei vari canti, che potremo consultare integralmente nel <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Reader" target="_blank">Lettore</a>. Scopriremo che nel canto 5 si parla d’amore per il racconto di Dalinda (Crudele Amore, mio amator, amoroso gioco, amava poco, ardea per tutto il cor, immensa fiamma...), mentre nel 36 per l’incontro tra Ruggiero, Marfisa e Bradamante in cui emergono i loro sentimenti (l’innamorato giovine, ch’ama amendue, l’un fiamma e furore, l’altro benivolenza piú ch’amore, amorosa lancia, avea nel cor fissa Bradamante…). Si parla però di amori molto diversi, come ci raccontano le ottave! 
 
-![](esempio1a.jpg)
-![](esempio1b.jpg)
+![](esempio1a.png)
+![](esempio1b.png)
 
 ## Esempio 2: il tema della pazzia 
 La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?
 Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor*, pazz*, senno che nel canto 29 c’è una altissima frequenza di "pazz*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: O degli uomini inferma e instabil mente!, il pazzo orlando, il furioso conte, de la follia che cosí nudo il mena, Orlando in cui non cessa l’impeto e la rabbia…
 E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio
 
-![](esempio2.jpg)
+![](esempio2.png)
 
 ## Esempio 3: la figura della donna: l’esempio di Bradamante
 Come sono caratterizzate le figure femminili dell’opera? Ti sembra che ce ne sia qualcuna che non rispetta i canoni tradizionali dell’epoca? 
@@ -96,7 +96,7 @@ Le funzioni che abbiamo scelto - ed esemplificato nell’immagine sopra - sono:
 1. **Collocates/Collocati**: parole che co-occorrono, che si trovano insieme più frequentemente, dato un certo contesto
 2. **Reader/Lettore**: permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo.
 3. **Trends/Andamenti**: presenta un grafico dell’andamento della frequenza relativa delle parole nel documento, o della parola/e selezionate negli altri strumenti. Il grafico si aggiorna "live".
-4. **Phrases/Sintagmi**: mostra le combinazioni *fisse*/ di parole più frequenti nel testo/i.
+4. **Phrases/Sintagmi**: mostra le combinazioni *fisse* di parole più frequenti nel testo/i.
 5. **Dreamscape**: è una funzione sperimentale (che produce risultati spesso imprecisi) che estrae i nomi di luoghi presenti nel testo, e li visualizza su una mappa geografica, creando automaticamente un "viaggio" tra i diversi luoghi basato sull’ordine di apparizione dei luoghi nel testo.
 
 
