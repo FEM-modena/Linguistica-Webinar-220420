@@ -101,7 +101,7 @@ Le funzioni che abbiamo scelto - ed esemplificato nell’immagine sopra - sono:
 5. **Dreamscape**: è una funzione sperimentale (che produce risultati spesso imprecisi) che estrae i nomi di luoghi presenti nel testo, e li visualizza su una mappa geografica, creando automaticamente un "viaggio" tra i diversi luoghi basato sull’ordine di apparizione dei luoghi nel testo.
 
 
- ## Dove trovare opere complete da caricare su Voyant
+## Dove trovare opere complete da caricare su Voyant
 Ecco un breve elenco di siti (legali!) dai quali scaricare opere complete in formato di testo semplice (`.txt`) da usare con Voyant.
 
 - <a href="https://www.gutenberg.org/" rel="" target="_blank">Project Gutenberg</a>
