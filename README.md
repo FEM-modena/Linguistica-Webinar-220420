@@ -35,14 +35,14 @@ Nel grafico degli  <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab22765
 ![](esempio1a.jpg)
 ![](esempio1b.jpg)
 
-##Esempio 2: il tema della pazzia 
+## Esempio 2: il tema della pazzia 
 La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?
 Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor*, pazz*, senno che nel canto 29 c’è una altissima frequenza di "pazz*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: O degli uomini inferma e instabil mente!, il pazzo orlando, il furioso conte, de la follia che cosí nudo il mena, Orlando in cui non cessa l’impeto e la rabbia…
 E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio
 
 ![](esempio2.jpg)
 
-##Esempio 3: la figura della donna: l’esempio di Bradamante
+## Esempio 3: la figura della donna: l’esempio di Bradamante
 Come sono caratterizzate le figure femminili dell’opera? Ti sembra che ce ne sia qualcuna che non rispetta i canoni tradizionali dell’epoca? 
 Nella visualizzazione che ci mostra i <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=donn*&context=15&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti della parola donn*</a> scopriamo che alcune delle parole che ricorrono più frequentemente in associazione a "donna" appartengono alla sfera semantica dell’amore (*dolce*, *amoroso affetto*, *amorosa cura*, *ardore*) e della bellezza (*bella*, *angelico sembiante*, *bel volto*). Riesci a trovarne altre, magari opposte a queste, o legate ad un personaggio femminile in particolare? Che cosa ci dicono queste caratteristiche linguistiche sul ruolo della donna nella letteratura cavalleresca? Prova a riflettere su altre correnti letterarie che hai studiato (es. la figura della *donna angelo* nel Dolce Stil Novo). 
 
