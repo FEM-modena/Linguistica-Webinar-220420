@@ -14,14 +14,15 @@ Quali strategie sono efficaci per facilitare la lettura e la comprensione delle 
 Vi proponiamo un’attività di annotazione sui personaggi dell’Orlando Furioso da svolgere su un documento Google. Vi invitiamo a copiare i nostri template direttamente nelle vostre cartelle di lavoro in modo da averli disponibili per far lavorare i vostri studenti individualmente o in modalità collaborativa. E se poi volete lavorare su altri testi letterari, potete semplicemente copiare le istruzioni e riproporre la stessa analisi su, ad esempio, I Promessi Sposi.
 
 Qui trovate 3 template con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro. 
-* <a href="https://docs.google.com/document/d/1eDBRHC8bn77l17FybXi24rEb9Oj6_yeKC99IxfJsHOQ/edit" target="_blank">Canto I</a>
 
+* <a href="https://docs.google.com/document/d/1eDBRHC8bn77l17FybXi24rEb9Oj6_yeKC99IxfJsHOQ/edit" target="_blank">Canto I</a>
 * <a href="https://docs.google.com/document/d/1pbQFT2vCh70Gp0bZtdM-pdMRMPIR7Z8uZnWdHtmkr1M/edit?usp=sharing" target="_blank">Canto XII</a>
 * <a href="https://docs.google.com/document/d/1b5efKblb1NU-H620-V5NrtYgHHdjdDXQk0aCRV2sIYk/edit?usp=sharing" target="_blank">Canto XXIII</a>
 
 ### Lettura "a distanza" con Voyant
 
 Abbiamo precaricato il testo completo di *Orlando Furioso* su Voyant; puoi accedere al progetto tramite <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>.
+NOTA: Asterico=wildcard
 
 Qui trovate la guida di Voyant
 
@@ -37,14 +38,14 @@ Nel grafico degli  <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab22765
 
 ## Esempio 2: il tema della pazzia 
 La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?
-Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor*, pazz*, senno che nel canto 29 c’è una altissima frequenza di "pazz*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: O degli uomini inferma e instabil mente!, il pazzo orlando, il furioso conte, de la follia che cosí nudo il mena, Orlando in cui non cessa l’impeto e la rabbia…
+Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor\*, pazz\*, senno che nel canto 29 c’è una altissima frequenza di "pazz\*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: O degli uomini inferma e instabil mente!, il pazzo orlando, il furioso conte, de la follia che cosí nudo il mena, Orlando in cui non cessa l’impeto e la rabbia…
 E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio
 
 ![](esempio2.PNG)
 
 ## Esempio 3: la figura della donna: l’esempio di Bradamante
 Come sono caratterizzate le figure femminili dell’opera? Ti sembra che ce ne sia qualcuna che non rispetta i canoni tradizionali dell’epoca? 
-Nella visualizzazione che ci mostra i <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=donn*&context=15&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti della parola donn*</a> scopriamo che alcune delle parole che ricorrono più frequentemente in associazione a "donna" appartengono alla sfera semantica dell’amore (*dolce*, *amoroso affetto*, *amorosa cura*, *ardore*) e della bellezza (*bella*, *angelico sembiante*, *bel volto*). Riesci a trovarne altre, magari opposte a queste, o legate ad un personaggio femminile in particolare? Che cosa ci dicono queste caratteristiche linguistiche sul ruolo della donna nella letteratura cavalleresca? Prova a riflettere su altre correnti letterarie che hai studiato (es. la figura della *donna angelo* nel Dolce Stil Novo). 
+Nella visualizzazione che ci mostra i <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=donn*&context=15&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti della parola donn\*</a> scopriamo che alcune delle parole che ricorrono più frequentemente in associazione a "donna" appartengono alla sfera semantica dell’amore (*dolce*, *amoroso affetto*, *amorosa cura*, *ardore*) e della bellezza (*bella*, *angelico sembiante*, *bel volto*). Riesci a trovarne altre, magari opposte a queste, o legate ad un personaggio femminile in particolare? Che cosa ci dicono queste caratteristiche linguistiche sul ruolo della donna nella letteratura cavalleresca? Prova a riflettere su altre correnti letterarie che hai studiato (es. la figura della *donna angelo* nel Dolce Stil Novo). 
 
 ![](donna.png)
 ![](Bradamante.png)
