@@ -2,6 +2,10 @@
 
 # Leggere i testi letterari con strumenti computazionali: alcuni consigli per facilitare lo studio e migliorare la comprensione
 
+## La nostra Classroom
+Questo webinar fa parte di una programmazione più ampia, dedicata all’interazione tra linguistica e didattica in classe, e pensata per condividere e sviluppare attività, idee, suggerimenti, e per instaurare uno scambio di esperienze e necessità. Per questo abbiamo creato una piattaforma di discussione online: puoi accedere alla stanza dedicata di <a href="classroom.google.com/u/0/" target="_blank">Google Classroom</a>, utilizzando il codice **jdibcze**.
+Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui coinvolte, per poterci scambiare opinioni sulle attività e proposte inedite per temi, metodi e strumenti di lavoro a scuola. 
+
 ## Introduzione: dalla lettura "*tradizionale*" alla lettura "*a distanza*"
 Alla base del **Distant Reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura "*tradizionale*". Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *Distant Reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.
 
@@ -11,7 +15,11 @@ Quali strategie sono efficaci per facilitare la lettura e la comprensione delle 
 
 
 ### Lettura "a distanza" con GSuite
-Vi proponiamo un’attività di annotazione sui personaggi dell’Orlando Furioso da svolgere su un documento Google. Vi invitiamo a copiare i nostri template direttamente nelle vostre cartelle di lavoro in modo da averli disponibili per far lavorare i vostri studenti individualmente o in modalità collaborativa. E se poi volete lavorare su altri testi letterari, potete semplicemente copiare le istruzioni e riproporre la stessa analisi su, ad esempio, I Promessi Sposi.
+Vi proponiamo un’attività di annotazione sui personaggi dell’Orlando Furioso da svolgere su un documento Google. Vi invitiamo a copiare i nostri template direttamente nelle vostre cartelle di lavoro in modo da averli disponibili per far lavorare i vostri studenti individualmente o in modalità collaborativa. E se poi volete lavorare su altri testi letterari, potete semplicemente copiare le istruzioni e riproporre la stessa analisi su, ad esempio, **I Promessi Sposi**.
+
+> Se ti vuoi cimentare anche con la *quarantana*, abbiamo precaricato tutto il testo su Voyant: puoi iniziare a sperimentare 
+<a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=c850b8189159af05b737162c610ccef4" target="_blank">usando questo link.</a>
+
 
 Qui trovate 3 template con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro. 
 
