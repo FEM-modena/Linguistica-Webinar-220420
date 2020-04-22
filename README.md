@@ -7,11 +7,11 @@ Questo webinar fa parte di una programmazione più ampia, dedicata all’interaz
 Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui coinvolte, per poterci scambiare opinioni sulle attività e proposte inedite per temi, metodi e strumenti di lavoro a scuola. 
 
 ## Introduzione: dalla lettura "*tradizionale*" alla lettura "*a distanza*"
-Alla base del **Distant Reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura "*tradizionale*". Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *Distant Reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.
+Alla base del **distant reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Franco Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura "*tradizionale*". Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *distant reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.
 
 
 ## La lettura "*a distanza*" in classe
-Quali strategie sono efficaci per facilitare la lettura e la comprensione delle opere letterarie a scuola? Affiancando e supportando la lettura tradizionale dei testi (**Close Reading**), la lettura a distanza (**Distant Reading**) permette allo studente di allargare il proprio campo di indagine, aiutandolo a ricercare collegamenti e interconnessioni tra opere letterarie prodotte in un dato contesto storico e sociale, ma anche tra opere appartenenti ad autori e a correnti letterarie diverse. Il **Distant Reading** si rivela così uno strumento efficace nelle fasi di rielaborazione e ripasso dei contenuti affrontati e studiati in classe sotto la guida del docente.
+Quali strategie sono efficaci per facilitare la lettura e la comprensione delle opere letterarie a scuola? Affiancando e supportando la lettura tradizionale dei testi (**close reading**), la lettura a distanza (**distant reading**) permette allo studente di allargare il proprio campo di indagine, aiutandolo a ricercare collegamenti e interconnessioni tra opere letterarie prodotte in un dato contesto storico e sociale, ma anche tra opere appartenenti ad autori e a correnti letterarie diverse. Il **distant reading** si rivela così uno strumento efficace nelle fasi di rielaborazione e ripasso dei contenuti affrontati e studiati in classe sotto la guida del docente.
 
 
 ### Lettura "a distanza" con GSuite
@@ -29,25 +29,20 @@ Qui trovate 3 template con le istruzioni e i testi già pronti per svolgere l’
 
 ### Lettura "a distanza" con Voyant
 
-Abbiamo precaricato il testo completo di *Orlando Furioso* su Voyant; puoi accedere al progetto tramite <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>.
-NOTA: Asterico=wildcard
-
-Qui trovate la guida di Voyant
-
-Oggi vedremo insieme alcuni esempi di attività per prendere confidenza con lo strumento.
+L’attività proposta con GSuite può essere svolta anche con uno strumento pensato appositamente per la lettura “a distanza” di testi letterari, Voyant. Abbiamo precaricato il testo completo di *Orlando Furioso* su Voyant; puoi accedere al progetto tramite <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>.
 
 ## Esempio 1: le emozioni dell’opera
 Quali sono le emozioni più significative nel poema? Quali nei canti specifici? A quali personaggi si riferiscono? 
 Noi abbiamo fatto una prova con "amore".
-Nel grafico degli  <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=amor*&query=paur*&query=furor*" target="_blank"> andamenti di "furor\*", "amor\*", "pazz\*" </a> notiamo un’alta frequenza relativa di "amor\*" nei canti 5, 13, 36. Perchè? Andiamo a vedere in <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Contexts&query=amor*" target="_blank">Contesti</a> le specifiche occorrenze della parola nei vari canti, che potremo consultare integralmente nel <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Reader" target="_blank">Lettore</a>. Scopriremo che nel canto 5 si parla d’amore per il racconto di Dalinda (Crudele Amore, mio amator, amoroso gioco, amava poco, ardea per tutto il cor, immensa fiamma...), mentre nel 36 per l’incontro tra Ruggiero, Marfisa e Bradamante in cui emergono i loro sentimenti (l’innamorato giovine, ch’ama amendue, l’un fiamma e furore, l’altro benivolenza piú ch’amore, amorosa lancia, avea nel cor fissa Bradamante…). Si parla però di amori molto diversi, come ci raccontano le ottave! 
+Nel grafico degli  <a href= "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=amor*&query=paur*&query=furor*" target="_blank"> andamenti di "furor\*", "amor\*", "pazz\*" </a> notiamo un’alta frequenza relativa di "amor\*" nei canti 5, 13, 36. Perchè? Andiamo a vedere in <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Contexts&query=amor*" target="_blank">Contesti</a> le specifiche occorrenze della parola nei vari canti, che potremo consultare integralmente nel <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Reader" target="_blank">Lettore</a>. Scopriremo che nel canto 5 si parla d’amore per il racconto di Dalinda (*Crudele Amore*, *mio amator*, *amoroso gioco*, *amava poco*, *ardea per tutto il cor*, *immensa fiamma*), mentre nel 36 per l’incontro tra Ruggiero, Marfisa e Bradamante in cui emergono i loro sentimenti (*l’innamorato giovine*, *ch’ama amendue, l’un fiamma e furore, l’altro benivolenza piú ch’amore*, *amorosa lancia*, *avea nel cor fissa Bradamante*). Si parla però di amori molto diversi, come ci raccontano le ottave! 
 
 ![](esempio1a.PNG)
 ![](esempio1b.PNG)
 
 ## Esempio 2: il tema della pazzia 
 La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?
-Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor\*, pazz\*, senno che nel canto 29 c’è una altissima frequenza di "pazz\*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: O degli uomini inferma e instabil mente!, il pazzo orlando, il furioso conte, de la follia che cosí nudo il mena, Orlando in cui non cessa l’impeto e la rabbia…
-E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio
+Osserviamo dal grafico degli <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&view=Trends&query=senno&query=pazz*&query=folle&query=furor*" target="_blank">andamenti</a> di furor\*, pazz\*, senno che nel canto 29 c’è una altissima frequenza di "pazz\*", ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): "Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir". Nel resto del canto troviamo altri riferimenti alla follia di Orlando: *O degli uomini inferma e instabil mente!*, *il pazzo orlando*, *il furioso conte*, *de la follia che cosí nudo il mena*, *Orlando in cui non cessa l’impeto e la rabbia*.
+E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio.
 
 ![](esempio2.PNG)
 
@@ -85,6 +80,13 @@ Ma quali sono le cose interessanti da vedere con Voyant? Se non te ne fossero ve
 | Collegamenti                                  | Come viene rappresentata la figura di Bradamante ne "L’Orlando Innamorato" di Boiardo e ne "Le città invisibili" di Calvino? Ti sembra ci siano delle differenze o dei punti in comune tra queste tre opere? | Bradamante                                                                                                                                                                                                              |
 | Riferimenti intertestuali                     | Possiamo fare dei parallelismi tra la pazzia di Orlando e quella di Ercole nell’Hercules Furens senecano?                                                                                                    | furore\.\.\.                                                                                                                                                                                                            |
 
+## Risorse esterne sull’Orlando Furioso
+
+<a href="http://galassiaariosto.sns.it/" target="_blank">Galassia Ariosto</a> è un progetto creato da *CTL Scuola Normale Superiore di Pisa* che raccoglie gli apparati iconografici delle principali edizioni cinquecentesche illustrate del Furioso, permettendo di navigare il testo attraverso le immagini. Sono inoltre presenti dei percorsi, attraverso i quali il gruppo di ricerca ha voluto mettere in luce le potenzialità interpretative che la consultazione di *Galassia Ariosto* è in grado di suscitare. 
+
+L’<a href="http://www.furiosoatlas.com/atlas.html" target="_blank">Orlando Furioso Atlas</a> è un progetto in lingua inglese sviluppato dal Prof. Daniel Leisawitz (Muhlenberg College) con lo scopo di tradurre e rappresentare in modo digitale e interattivo la cartografia del mondo costruito da Ludovico Ariosto nell’*Orlando Furioso*, conosciuto in inglese come *The Frenzy of Orlando*.
+
+
 ## Primi passi con Voyant
 In questa sezione trovate alcuni consigli per muovere i primi passi con Voyant: dall’utilizzo dei singoli strumenti, alla creazione di un dataset personalizzato.
 Iniziamo con una breve panoramica dei 5 strumenti che abbiamo scelto per usare la *distant reading* su testi di letteratura: cliccando su <a href="https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1" target="_blank">questo link</a>
@@ -102,11 +104,17 @@ La <a href="https://voyant-tools.org/docs/" target="_blank">guida online di Voya
 
 Le funzioni che abbiamo scelto - ed esemplificato nell’immagine sopra - sono:
 
-1. **Collocates/Collocati**: parole che co-occorrono, che si trovano insieme più frequentemente, dato un certo contesto
+1. **Collocates/Collocati**: parole che co-occorrono, che si trovano insieme più frequentemente, dato un certo contesto.
 2. **Reader/Lettore**: permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo.
 3. **Trends/Andamenti**: presenta un grafico dell’andamento della frequenza relativa delle parole nel documento, o della parola/e selezionate negli altri strumenti. Il grafico si aggiorna "live".
 4. **Phrases/Sintagmi**: mostra le combinazioni *fisse* di parole più frequenti nel testo/i.
 5. **Dreamscape**: è una funzione sperimentale (che produce risultati spesso imprecisi) che estrae i nomi di luoghi presenti nel testo, e li visualizza su una mappa geografica, creando automaticamente un "viaggio" tra i diversi luoghi basato sull’ordine di apparizione dei luoghi nel testo.
+
+### Ricerca avanzata di parole o frasi con Voyant
+Voyant supporta l’utilizzo di espressioni regolari: di seguito un elenco delle espressioni supportate, corredate da esempi.
+
+
+<ul style="margin-top: 3px; margin-bottom: 3px;"><li><b>cappotto</b>: trova il termine esatto <i>cappotto</i></li><li><b>cappotto*</b>: trova termini che iniziano con <i>cappotto</i> come termine singolo</li><li><b>^cappott*</b>: trova termini che iniziano con <i>cappott</i> come termine separato (​​cappotto, cappotti, ecc.)</li><li><b>cappotto, giacca </b>: trova ogni termine separato da virgole come termine separato</li><li><b>cappotto | giacca</b>: trova termini separati dalla barra come singolo termine</li><li><b>"cappotto invernale"</b>: <i>cappotto invernale</i> come sintagma</li><li><b>"guanti cappotto"~ 5</b>: <i>cappotto</i> nei pressi di <i> guanti</i> (entro 5 termini )</li><li><b> ^cappott*, giacca | parka,"guanti cappotto"~ 5</b>: combina le sintassi</li></ul>
 
 
 ## Dove trovare opere complete da caricare su Voyant
