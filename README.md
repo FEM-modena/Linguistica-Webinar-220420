@@ -1,5 +1,7 @@
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
 
+> Ultimo aggiornamento: 11 Maggio 2020
+
 # Leggere i testi letterari con strumenti computazionali: alcuni consigli per facilitare lo studio e migliorare la comprensione
 
 ## La nostra Classroom
@@ -7,7 +9,12 @@ Questo webinar fa parte di una programmazione più ampia, dedicata all’interaz
 Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui coinvolte, per poterci scambiare opinioni sulle attività e proposte inedite per temi, metodi e strumenti di lavoro a scuola. 
 
 ## Introduzione: dalla lettura "*tradizionale*" alla lettura "*a distanza*"
-Alla base del **distant reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Franco Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura "*tradizionale*". Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *distant reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.
+Alla base del **distant reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Franco Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura "*tradizionale*". Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *distant reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.  
+Ulteriori riferimenti:
+
+- <a href="https://www.nytimes.com/2017/10/30/arts/franco-moretti-stanford-literary-lab-big-data.html">*Reading by the Numbers: When Big Data Meets Literature*</a>
+- <a href="https://www.einaudi.it/catalogo-libri/critica-letteraria-e-linguistica/filologia-e-critica-letteraria/la-letteratura-vista-da-lontano-franco-moretti-9788806172893/">*La letteratura vista da lontano*</a>, il testo col quale Franco Moretti ha "fondato" la *lettura a distanza*
+- <a href="https://www.lindiceonline.com/osservatorio/franco-moretti-un-paese-lontano/">Recensione di *Un paese lontano*, di Franco Moretti</a>
 
 
 ## La lettura "*a distanza*" in classe
